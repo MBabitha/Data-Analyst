@@ -1,1 +1,2 @@
-# Data-Analyst
+# Data-Analyst_Task 1
+In this I cleaned the data of sample sales data. You can go through the Cleaned Sales Data Excel where you can see the two sheets 1st one the data that is downloaded from kaggle and the 2nd Sheet that has been cleaned by me. In this process I learned that to copy the csv file and created a excel. After that I organised the columns as per the required size, added filters for every  column to filter the columns. I highlighted the heading using bold and colours. 
